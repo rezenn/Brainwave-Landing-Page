@@ -16,8 +16,6 @@ Fully responsive, optimized for speed, and easy to customize — perfect as a Sa
 ---
 <img width="1897" height="963" alt="image" src="https://github.com/user-attachments/assets/6f6d0e09-da1e-4553-a079-b8b36e3d63e2" />
 UI preview 
-
-
 ## 🛠 Tech Stack
 
 - [React](https://reactjs.org/) – UI library  
@@ -30,14 +28,13 @@ UI preview
 git clone https://github.com/rezenn/Brainwave-Landing-Page.git
 cd Brainwave-Landing-Page
 
--
 ### 2. Install dependencies
 npm install
 
--
 ### 3. Run development
 npm run dev
 
+```
 ### Folder Structure
 src/
  ├─ assets/         # Images, SVGs, and static files
