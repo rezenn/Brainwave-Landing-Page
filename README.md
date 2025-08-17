@@ -35,11 +35,3 @@ npm install
 npm run dev
 
 ```
-### Folder Structure
-src/
- ├─ assets/         # Images, SVGs, and static files
- ├─ components/     # Reusable UI components
- ├─ constants/      # Centralized data/config (navigation, features, etc.)
- ├─ pages/          # Page sections or full-page components
- ├─ App.jsx         # Main app entry
- └─ main.jsx        # React DOM renderer
